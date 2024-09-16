@@ -68,11 +68,22 @@ This workshop uses materials and examples that are based on the components inclu
 
   <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_tilt_sensor.jpeg?raw=true" width="400">
 
-## What do you need (software)?
+## Install the Arduino software
 
+### 1. Install Arduino
+   Visit the Arduino software page and download the latest Arduino IDE version for your OS.
 - [Arduino IDE](https://www.arduino.cc/en/software) or [Arduino Cloud](https://app.arduino.cc/)
 
   <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/arduino_ide.png?raw=true" width="400">
 
+### 2. Install drivers
+   You need to install drivers to program the Arduino. Drivers convert data sent through the USB port into serial signals that the Arduino can understand. 
 - [Drivers](https://support.arduino.cc/hc/en-us/articles/4411305694610-Install-or-update-FTDI-drivers) (in case they are not installed by default)
 - _Check the module example to check extra dependencies_
+
+### 3. Launch Arduino
+   Launch the Arduino application. It will open to the template of a new, empty sketch. Here's what it looks like.  
+   
+- <img width="339" alt="Screenshot 2024-09-16 at 11 00 52" src="https://github.com/user-attachments/assets/007f20f4-6cdb-45c2-abc2-6a91ba11a8cc">
+
+
