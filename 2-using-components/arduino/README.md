@@ -33,7 +33,7 @@ Next, select a port for the serial device to communicate through.
   <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/arduino/assets/flash.png?raw=true" width="650">
 
 ### 6. Changing blinking speed 
-Try to modify the arduino.ino file so that LED flashes at twice its original rate. If you're not sure how to change the flashing rate, find the line below, and edit it so the delay is shorter. Then reupload your modified sketch. 
+Try to modify the arduino.ino file so that the LED flashes at twice its original rate. If you're not sure how to change the flashing rate, find the line below, and edit it so the delay is shorter. Then reupload your modified sketch. 
 
 ```c
 delay(1000); //wait for a second
