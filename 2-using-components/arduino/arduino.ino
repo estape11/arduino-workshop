@@ -11,7 +11,7 @@ void setup() {
 
 // Runs indefitelely until power-off
 void loop() {
-  delay(1000);
+  delay(1000); //wait for a second
   digitalWrite(LED_BUILTIN, LOW); // Sets a HIGH (5V) signal in the pin
   delay(1000);
   digitalWrite(LED_BUILTIN, HIGH); // Sets a LOW (0V/GND) signal in the pin
