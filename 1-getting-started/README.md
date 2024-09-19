@@ -38,7 +38,7 @@ This workshop uses materials and examples that are based on the components inclu
 
 - Jumper wires
 
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_jumpers.jpeg?raw=true" width="400">
+  <img src="https://github.com/user-attachments/assets/78a73ccb-9112-4205-a2a7-1b4699d9595c" width="400">
 
 - LEDs
 
