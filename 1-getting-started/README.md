@@ -1,24 +1,40 @@
 # Getting started
 
-This workshop uses materials and examples that are based on the components included in the [project starter kit](https://www.sunfounder.com/collections/arduino-starter-kits/products/unor3-project-starter-kit).
+To get started, take out the first 4 items listed below: Breadboard, Arduino uno, USB cable, and Jumper wires.
 
 ## What do you need (hardware)?
 
-- Arduino-like microcontroller board
+- Breadboard/protoboard: Wires plug inot its sockets
+
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_breadboard.jpeg?raw=true" width="400">
+  
+- Arduino uno: Microcontroller
 
   <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_arduino.jpeg?raw=true" width="400">
 
-- 4x7 segments display
+- USB cable
+  
+  <img src="https://github.com/user-attachments/assets/ded1a8c4-651f-4832-9c19-f881d63fa462" width="400">
 
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_4_7segments.jpeg?raw=true" width="400">
+- Jumper wires: To connect components
 
-- 7 segments display
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_jumpers.jpeg?raw=true" width="400">
 
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_7segments.jpeg?raw=true" width="400">
+- LEDs
 
-- Breadboard/protoboard
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_led.jpeg?raw=true" width="400">
 
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_breadboard.jpeg?raw=true" width="400">
+- Resistors
+
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_resistors.jpeg?raw=true" width="400">
+
+- Servo motor
+
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_servo.jpeg?raw=true" width="400">
+
+- Tilt sensor
+
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_tilt_sensor.jpeg?raw=true" width="400">
 
 - Buzzers
 
@@ -38,7 +54,7 @@ This workshop uses materials and examples that are based on the components inclu
 
 - Jumper wires
 
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_jumpers.jpeg?raw=true" width="400">
+  <img src="https://github.com/user-attachments/assets/78a73ccb-9112-4205-a2a7-1b4699d9595c" width="400">
 
 - LEDs
 
@@ -52,21 +68,18 @@ This workshop uses materials and examples that are based on the components inclu
 
   <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_push_buttons.jpeg?raw=true" width="400">
 
-- Resistors
-
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_resistors.jpeg?raw=true" width="400">
-
-- Servo motor
-
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_servo.jpeg?raw=true" width="400">
-
 - Step motor
 
   <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_step_motor.jpeg?raw=true" width="400">
 
-- Tilt sensor
+- 4x7 segments display
 
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_tilt_sensor.jpeg?raw=true" width="400">
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_4_7segments.jpeg?raw=true" width="400">
+
+- 7 segments display
+
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_7segments.jpeg?raw=true" width="400">
+
 
 ## Install the Arduino software
 
