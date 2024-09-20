@@ -11,7 +11,7 @@ Now we'll set up the software to work with the Arduino board.
 
 ### Step 2: Open the Arduino IDE
 
-### 3. Select the board from the menu
+### Step 3. Select the board from the menu
 The programmer needs to know what hardware you're using, so select the Arduino micro using the menu bar. 
 
 - `Tools > board > Arduino/Arduino Uno`
