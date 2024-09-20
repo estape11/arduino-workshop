@@ -2,19 +2,18 @@
  * estape11 2024
  */
 
-#define LDR_PIN 12
 #define LED_PIN 11
 
 int ldrValue;
 
 void setup()   {
   Serial.begin(9600);
-  pinMode(LDR_PIN, INPUT_PULLUP);
+  pinMode(A3, INPUT_PULLUP);
   pinMode(LED_PIN, OUTPUT);
 }
 
 void loop() {
-  ldrValue = analogRead(LDR_PIN); // reads the value sensed by the foto-resistor
+  ldrValue = analogRead(A3); // reads the value sensed by the foto-resistor
   Serial.println(ldrValue); // prints the read value from the foto-resistor 
 
   if (ldrValue <= 80) { // threshold value (can be modified)
