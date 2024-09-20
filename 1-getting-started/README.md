@@ -52,6 +52,14 @@ To get started, take out the first 4 items listed below: Breadboard, Arduino uno
 
   <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_ir_controller.jpeg?raw=true" width="400">
 
+- Jumper wires
+
+  <img src="https://github.com/user-attachments/assets/78a73ccb-9112-4205-a2a7-1b4699d9595c" width="400">
+
+- LEDs
+
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_led.jpeg?raw=true" width="400">
+
 - Potentiometer
 
   <img src="https://github.com/estape11/arduino-workshop/blob/main/1-getting-started/assets/kit_potentiometer.jpeg?raw=true" width="400">
