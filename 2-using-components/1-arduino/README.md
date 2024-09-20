@@ -9,7 +9,7 @@ Now we'll set up the software to work with the Arduino board.
 
 ### Step 1: Connect the Arduino to the computer using the USB cable
 
-### Step 2: Open the Arduino IDE
+### Step 2: Open the [Arduino IDE](../../1-getting-started/README.md#install-the-arduino-software)
 
 ### Step 3. Select the board from the menu
 The programmer needs to know what hardware you're using, so select the Arduino micro using the menu bar. 
@@ -29,7 +29,7 @@ Next, select a port for the serial device to communicate through.
 
 ### Step 5: Copy and paste file [arduino.ino](https://github.com/estape11/arduino-workshop/blob/main/2-using-components/1-arduino/arduino.ino) or open the file using Arduino IDE
 
-- Compile and upload the sketch, using the arrow button. After a few seconds, the small LED on the Arduino should flash quickly. You should see the LED on the Arduino repeatedly blink on for 1 second, then blink off for 1 second.
+- Compile and upload the sketch, using the arrow button'.' After a few seconds, the small LED on the Arduino should flash quickly. You should see the LED on the Arduino repeatedly blink on for 1 second, then blink off for 1 second.
   
   <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/1-arduino/assets/flash.png?raw=true" width="650">
 
