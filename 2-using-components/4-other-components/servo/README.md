@@ -9,8 +9,8 @@ How to control a standard servo motor, to go back and forth across 180 degrees, 
 
 ## Diagram
 
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/servo/assets/servo_diagram.png?raw=true" width="400">
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-other-components/servo/assets/servo_diagram.png?raw=true" width="400">
 
 ## Steps
-- Using the Arduino IDE, flash the code ([servo.ino](https://github.com/estape11/arduino-workshop/blob/main/2-using-components/servo/servo.ino))
+- Using the Arduino IDE, flash the code ([servo.ino](https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-other-components/servo/servo.ino))
 - Monitor the servo that goes from 0 degrees to 180 degrees and back to 0 degrees

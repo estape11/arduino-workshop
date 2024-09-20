@@ -14,7 +14,7 @@ Note:
 
 ## Diagram
 
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/tilt-sensor/assets/tilt_diagram.png?raw=true" width="400">
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-other-components/tilt-sensor/assets/tilt_diagram.png?raw=true" width="400">
 
 
 ## Steps

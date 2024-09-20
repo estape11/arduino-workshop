@@ -10,7 +10,7 @@ They are used in so many everyday items, including window blinds, 3D printers, D
 
 ## Diagram
 
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/step-motor/assets/stepper_diagram.png?raw=true" width="400">
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-other-components/step-motor/assets/stepper_diagram.png?raw=true" width="400">
 
 ## Steps
 - Using the Arduino IDE, flash the code (step-motor.ino)

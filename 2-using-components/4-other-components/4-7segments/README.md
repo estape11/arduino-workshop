@@ -20,8 +20,8 @@ Note: If your arduino application was opened and running while you where putting
 
 ## Diagram
 
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-4-7segments/assets/4-7segments_diagram.png?raw=true" width="400">
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-other-components/4-4-7segments/assets/4-7segments_diagram.png?raw=true" width="400">
 
 ## Steps
-- Using the Arduino IDE, flash the code ([4-7segments.ino](https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-7segments/4-7segments.ino))
+- Using the Arduino IDE, flash the code ([4-7segments.ino](https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-other-components/4-7segments/4-7segments.ino))
 - Monitor the 4x7 segment display that shows the number 1234

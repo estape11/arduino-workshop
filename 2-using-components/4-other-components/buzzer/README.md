@@ -11,8 +11,8 @@ Buzzers can be found in alarm devices, computers, timers and confirmation of use
 
 ## Diagram
 
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/buzzer/assets/buzzer_diagram.png?raw=true" width="400">
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-other-components/buzzer/assets/buzzer_diagram.png?raw=true" width="400">
 
 ## Steps
-- Using the Arduino IDE, flash the code ([buzzer.ino](https://github.com/estape11/arduino-workshop/blob/main/2-using-components/buzzer/buzzer.ino))
+- Using the Arduino IDE, flash the code ([buzzer.ino](https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-other-components/buzzer/buzzer.ino))
 - Hear the sound emitted by the buzzer every second 

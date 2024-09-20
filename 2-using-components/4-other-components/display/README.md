@@ -16,8 +16,8 @@ Displays can be found in a diverse selection of embedded devices to show status 
 
 ## Diagram
 
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/display/assets/display_diagram.png?raw=true" width="400">
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-other-components/display/assets/display_diagram.png?raw=true" width="400">
 
 ## Steps
-- Using the Arduino IDE, flash the code ([display.ino](https://github.com/estape11/arduino-workshop/blob/main/2-using-components/display/display.ino))
+- Using the Arduino IDE, flash the code ([display.ino](https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-other-components/display/display.ino))
 - Monitor how the display shows the "hello, world!" expresion

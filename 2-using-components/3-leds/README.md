@@ -40,7 +40,7 @@ Unplug the USB cable from the Arduino then rewire the board shown below. Connect
 
   <img src="https://github.com/user-attachments/assets/aa129690-8284-4496-9a4e-161739a424ea" width="640">
 
-### Step 2: flash the code ([led.ino](https://github.com/estape11/arduino-workshop/blob/main/2-using-components/leds/led.ino))
+### Step 2: flash the code ([led.ino](https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-other-components/3-leds/led.ino))
 Open the led.no file on your laptop. The following line sets pin 5 to output
 
 ```c

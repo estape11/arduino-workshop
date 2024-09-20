@@ -11,8 +11,8 @@ One digit seven segment displays are used in many embedded system and industrial
 
 ## Diagram
 
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/7segments/assets/7segment_diagram.png?raw=true" width="400">
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-other-components/7segments/assets/7segment_diagram.png?raw=true" width="400">
 
 ## Steps
-- Using the Arduino IDE, flash the code ([7segments.ino](https://github.com/estape11/arduino-workshop/blob/main/2-using-components/7segments/7segments.ino))
+- Using the Arduino IDE, flash the code ([7segments.ino](https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-other-components/7segments/7segment.ino))
 - Monitor the 7 segment display that goes from 0 to 9 in two seconds steps 

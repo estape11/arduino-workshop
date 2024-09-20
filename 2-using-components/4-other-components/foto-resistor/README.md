@@ -13,8 +13,8 @@ LDR can be used to detect light or the absense of light (and values in between).
 
 ## Diagram
 
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/foto-resistor/assets/foto-resistor_diagram.png?raw=true" width="400">
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-other-components/foto-resistor/assets/foto-resistor_diagram.png?raw=true" width="400">
 
 ## Steps
-- Using the Arduino IDE, flash the code ([foto-resistor.ino](https://github.com/estape11/arduino-workshop/blob/main/2-using-components/foto-resistor/foto-resistor.ino))
+- Using the Arduino IDE, flash the code ([foto-resistor.ino](https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-other-components/foto-resistor/foto-resistor.ino))
 - Monitor the serial console and LED while you modify the light that gets to the LDR
