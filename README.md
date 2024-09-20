@@ -1,9 +1,9 @@
 # Arduino Workshop
-Welcome to the Arduino workshop for beginners. This workshop is designed for people with little to no experience with Arduino.
+Welcome to the Arduino workshop! This workshop is tailored for those with little to no prior experience with Arduino.
 
 ## Goals
 - Understand basic electronics concepts
-- Learn how to light and control an LED using Arduino
+- Learn how to light and control a LED using Arduino
 - Build your own project with the materials provided
 
 ***We recommend completing the full LED tutorial first. Once you're comfortable, feel free to explore other components as you gain more experience.***
