@@ -14,9 +14,10 @@ Resistors have 4 color bands to indicate their resistance. For 220 Ohm resistors
 **Note**:It's important to always place a resistor in series with any LED, to limit the current in the LED to a safe value. 
 
 
-### step 2: Add a LED
+### Step 2: Add a LED
 LEDs are diodes, and diodes only work when oriented one way. Connect the longer lead toward power, and the shorter lead toward ground.
- <img src="https://github.com/user-attachments/assets/eb3a3c45-88f1-4f35-bc68-2b13d15bd20c" align=center width="100">
+
+<img src="https://github.com/user-attachments/assets/eb3a3c45-88f1-4f35-bc68-2b13d15bd20c" align=center width="100">
 
 ### Step 3: Power the Arduino 
 Now plug the USB cable back into the Arduino. Your new LED should light up. Notice that the onboard LED is still flashing. That's because the Arduino is still running the arduino.ino program from earlier. 
