@@ -36,11 +36,11 @@ A short circuit happens when electricity flows the wrong way, causing too much c
 
 In the following image, the power connection (+) and (-) are connected to the same column 14, which will cause a short circuit.
 
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-other-components/2-breadboard/assets/short_circuit_2.jpeg?raw=true" width="640">
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/2-breadboard/assets/short_circuit_2.jpeg?raw=true" width="640">
 
 In this next image, using a jumper to brigde between the column 14 and column 20 also produces a short circuit.
 
-  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/4-other-components/2-breadboard/assets/short_circuit.jpeg?raw=true" width="640">
+  <img src="https://github.com/estape11/arduino-workshop/blob/main/2-using-components/2-breadboard/assets/short_circuit.jpeg?raw=true" width="640">
   
 ### Tool to measure voltage, resistance, and current
 Using the multimeter you can check the continuity between the connections.
