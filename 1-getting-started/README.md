@@ -100,3 +100,4 @@ To get started, take out the first 4 items listed below: Breadboard, Arduino uno
 - <img width="339" alt="Screenshot 2024-09-16 at 11 00 52" src="https://github.com/user-attachments/assets/007f20f4-6cdb-45c2-abc2-6a91ba11a8cc">
 
 
+*This workshop uses materials and examples that are based on the components included in the [project starter kit](https://www.sunfounder.com/collections/arduino-starter-kits/products/unor3-project-starter-kit).*

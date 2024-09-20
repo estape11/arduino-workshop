@@ -1,5 +1,5 @@
 # Arduino Workshop
-Welcome to the Arduino workshop! This workshop is tailored for those with little to no prior experience with Arduino.
+Welcome to the Arduino workshop! This tutorial is tailored for those with little to no prior experience with Arduino.
 
 ## Goals
 - Understand basic electronics concepts
